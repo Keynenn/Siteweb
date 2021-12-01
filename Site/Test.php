@@ -1,3 +1,0 @@
-<!-- fichier PHP -->
-
-<?php  ?>
